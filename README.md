@@ -14,8 +14,8 @@
 <h2> Ferramentas </h2>
 
 <p>
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"  style="border-radius: 0.3rem;">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  style="border-radius: 0.3rem;">
 </p>
 
 <h2>Preview</h2>
@@ -27,15 +27,15 @@
 </br>
 <section id="en">
 <h1>Hi there! This is my personal portfolio</h1>
-<img src="https://img.shields.io/badge/STATUS-UNDER%20DEVELOPMENT-brightgreen?labelColor=%231d1824">
+<img src="https://img.shields.io/badge/STATUS-UNDER%20DEVELOPMENT-brightgreen?labelColor=%231d1824" style="border-radius: 0.3rem;" >
 
 <p>In my portfolio, you will find some personal projects where I applied my skills.</p>
 
 <h2> Tools </h2>
 
 <p>
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" style="border-radius: 0.3rem;">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="border-radius: 0.3rem;">
 </p>
 
 <h2> Preview </h2>
