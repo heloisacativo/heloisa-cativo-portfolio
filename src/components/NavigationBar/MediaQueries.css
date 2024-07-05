@@ -1,0 +1,219 @@
+@media screen and (max-width: 767px){
+    .navigationContainer ul {
+        display: flex;
+        justify-content: flex-start;
+        margin-bottom: -3rem;
+        font-family: "Poppins", sans-serif;
+    
+    }
+    
+    .navigationContainer ul li {
+        margin-left: 1rem;
+        font-size: 0.7rem;
+        list-style: none;
+       
+        
+    }
+    
+    .navigationContainer ul li a{
+        color: #F2808A;
+    }
+    
+    .navigationContainer ul li a:hover{
+        color: #d65886;
+    }
+    
+    .selected span {
+        color: #d65886;
+        position: relative; 
+    }
+    
+    .selected span::after {
+        content: ''; 
+        position: absolute; 
+        left: 0; 
+        bottom: -2px; 
+        width: 100%;
+        height: 2px; 
+        background-color: #d65886; 
+    }
+}
+
+@media (min-width: 768px) and (max-width:1023px){
+    .navigationContainer ul {
+        display: flex;
+        justify-content: flex-start;
+        margin-left: 4rem;
+        margin-bottom: -3rem;
+        font-family: "Poppins", sans-serif;
+    
+    }
+    
+    .navigationContainer ul li {
+        margin-left: 1rem;
+        font-size: 1.2rem;
+        list-style: none;
+       
+        
+    }
+    
+    .navigationContainer ul li a{
+        color: #F2808A;
+    }
+    
+    .navigationContainer ul li a:hover{
+        color: #d65886;
+    }
+    
+    .selected span {
+        color: #d65886;
+        position: relative; 
+    }
+    
+    .selected span::after {
+        content: ''; 
+        position: absolute; 
+        left: 0; 
+        bottom: -2px; 
+        width: 100%;
+        height: 2px; 
+        background-color: #d65886; 
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1439px){
+
+    .navigationContainer ul {
+        display: flex;
+        justify-content: flex-start;
+        margin-left: 4rem;
+        margin-bottom: -3rem;
+        font-family: "Poppins", sans-serif;
+    
+    }
+    
+    .navigationContainer ul li {
+        margin-left: 1rem;
+        font-size: 1.2rem;
+        list-style: none;
+       
+        
+    }
+    
+    .navigationContainer ul li a{
+        color: #F2808A;
+    }
+    
+    .navigationContainer ul li a:hover{
+        color: #d65886;
+    }
+    
+    .selected span {
+        color: #d65886;
+        position: relative; 
+    }
+    
+    .selected span::after {
+        content: ''; 
+        position: absolute; 
+        left: 0; 
+        bottom: -2px; 
+        width: 100%;
+        height: 2px; 
+        background-color: #d65886; 
+    }
+
+    
+}
+
+@media screen and (min-width: 1439px) and (max-width: 1919px){
+
+.navigationContainer ul {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 4rem;
+    margin-bottom: -3rem;
+    font-family: "Poppins", sans-serif;
+
+}
+
+.navigationContainer ul li {
+    margin-left: 1rem;
+    font-size: 1.2rem;
+    list-style: none;
+   
+    
+}
+
+.navigationContainer ul li a{
+    color: #F2808A;
+}
+
+.navigationContainer ul li a:hover{
+    color: #d65886;
+}
+
+.noUnderline {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.selected span {
+    color: #d65886;
+    position: relative; 
+}
+
+.selected span::after {
+    content: ''; 
+    position: absolute; 
+    left: 0; 
+    bottom: -2px; 
+    width: 100%;
+    height: 2px; 
+    background-color: #d65886; 
+}
+}
+
+@media screen and (min-width: 1919px) and (max-width: 3840px){
+
+.navigationContainer ul {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 4rem;
+    margin-bottom: -3rem;
+    font-family: "Poppins", sans-serif;
+
+}
+
+.navigationContainer ul li {
+    margin-left: 1rem;
+    font-size: 1.2rem;
+    list-style: none;
+   
+    
+}
+
+.navigationContainer ul li a{
+    color: #F2808A;
+}
+
+.navigationContainer ul li a:hover{
+    color: #d65886;
+}
+
+.selected span {
+    color: #d65886;
+    position: relative; 
+}
+
+.selected span::after {
+    content: ''; 
+    position: absolute; 
+    left: 0; 
+    bottom: -2px; 
+    width: 100%;
+    height: 2px; 
+    background-color: #d65886; 
+}
+}
