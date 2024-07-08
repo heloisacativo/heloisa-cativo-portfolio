@@ -1,0 +1,5 @@
+dist/* linguist-vendored
+build/* linguist-vendored
+
+* text=auto
+*.md text eol=lf

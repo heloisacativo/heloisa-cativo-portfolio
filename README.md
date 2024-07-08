@@ -1,5 +1,6 @@
 <div align="center">
-  <a href="#en">🇺🇸 English Version</a> | <a href="#pt">🇧🇷 Versão em Português</a>
+  <a href="#en"><img src="https://img.shields.io/badge/English_Version-%23282A36" alt="English Version"/></a> 
+  <a href="#pt"><img src="https://img.shields.io/badge/Vers%C3%A3o_em_Portugu%C3%AAs-%23282A36" alt="Versão em Português"/></a>
 </div>
 
 ---
@@ -9,7 +10,7 @@
 <h1>Oi! Esse é meu portfólio pessoal</h1>
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-brightgreen?labelColor=%231d1824">
 
-<p>Se você explorar meu portfólio, encontrará alguns projetos pessoais onde apliquei o que aprendi.</p>
+<p>Se você explorar meu portfólio, encontrará meus projetos pessoais</p>
 
 <h2> Ferramentas </h2>
 
