@@ -6,7 +6,6 @@ import ImgProject4 from "../../assets/imgs/project-4.png";
 import Footer from "../Footer/Footer"
 import { useNavigate } from "react-router-dom";
 import NavigationBar from "../NavigationBar/NavigationBar";
-import { useEffect } from "react";
 
 const Main = () => {
     const navigate = useNavigate();
